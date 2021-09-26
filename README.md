@@ -6,7 +6,6 @@ ModIDS = {
         309977534, -- havcy
         2354673878, -- dandre
         566005672, -- KubzoneKKK booster
-
         2683206368, -- AkatsukiMEGOOD -- booster
         1733748324, -- buyer JayX
         2551905930, -- booster Imposter
@@ -33,6 +32,7 @@ ModIDS = {
         2399094060, -- booster Rec0il
         2564411817, -- hairs
         784626385, -- MaB giveaway winner
+        2025176515, -- alt of me
 
 
 
