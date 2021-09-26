@@ -32,6 +32,7 @@ ModIDS = {
         1167903454, -- dropped 5m
         2399094060, -- booster Rec0il
         2564411817, -- hairs
+        784626385 -- MaB giveaway winner
 
 
 
